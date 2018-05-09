@@ -1,0 +1,6 @@
+LIST OF CHANGES FOR NPG-QC-UTILS PACKAGE
+
+
+ - changes for NovaSeq
+     added new util fastqcheck
+     changed all read counts to uint64_t
