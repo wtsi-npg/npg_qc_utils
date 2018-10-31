@@ -1,5 +1,10 @@
 LIST OF CHANGES FOR NPG-QC-UTILS PACKAGE
 
+release 66.0
+ - removed source code for two unused executables:
+     window_depth,
+     fastq_summ
+
 release 65.0
  - changes for NovaSeq
      added new util fastqcheck
