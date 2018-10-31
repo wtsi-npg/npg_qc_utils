@@ -1,6 +1,7 @@
 LIST OF CHANGES FOR NPG-QC-UTILS PACKAGE
 
-
+release 65.0
  - changes for NovaSeq
      added new util fastqcheck
      changed all read counts to uint64_t
+ - initial move of source code from npg_qc package and other places
