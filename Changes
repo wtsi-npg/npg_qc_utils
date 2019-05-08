@@ -1,7 +1,10 @@
 LIST OF CHANGES FOR NPG-QC-UTILS PACKAGE
 
+release 67.0
+ - removed source code for fastqcheck which is no longer used
+
 release 66.0
- - removed source code for two unused executables:
+ - removed source code for three unused executables:
      window_depth,
      fastq_summ
 
